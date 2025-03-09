@@ -1,5 +1,7 @@
 # UNIX/Linux operating systems (Basic).
 
+> Project work report is available in the file [report.md](./src/report.md)
+
 Linux system installation and updates. Administration basics.
 
 The russian version of the task can be found in the repository.
